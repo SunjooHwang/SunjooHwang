@@ -3,6 +3,7 @@
 </br>If you have any inquiries, please feel free to contact me!</p>
 <a href="https://sunjoohwang.com"><img src="https://img.shields.io/badge/☆ Portfolio-007aff?style=flat-square" alt="Personal Porfolio"/></a>
 <a href="sonne.hwang.94@gmail.com"><img src="https://img.shields.io/badge/sonne.hwang.94@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://www.notion.so/sunjooh/4474f7f21f68432fba7d47a74e16b815?v=2de98ad7dfe9426abddc08920bb4efd6"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/></a>
 <hr></hr>
 <h4>Languages</h4>
 <span>
